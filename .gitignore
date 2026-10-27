@@ -1,0 +1,15 @@
+# local configuration
+.cargo
+.vscode
+.idea
+
+# local test files
+**/data
+profiler.txt
+
+# build artefacts
+**/build
+target
+recipe.json
+
+TODO.md

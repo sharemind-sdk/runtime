@@ -1,0 +1,9 @@
+**/.cargo
+**/.vscode
+**/.idea
+
+**/data
+
+**/build
+**/bindings_manual.rs
+target
